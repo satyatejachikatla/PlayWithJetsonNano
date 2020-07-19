@@ -1,5 +1,5 @@
 # PlayWithJetsonNano
 
-### Refrences
+### References
 
 * https://github.com/NVIDIA/jetson-gpio
